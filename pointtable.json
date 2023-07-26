@@ -1,0 +1,110 @@
+[
+ 
+  {
+    "Position": "1",
+    "Team":{
+      "src":"https://scores.iplt20.com/ipl/teamlogos/KKR.png?v=2",
+      "name":"MI"
+    },
+    "Point": "25",
+    "W": "10",
+    "L": "2",
+    "NR": "3",
+    "NRR": "+0.45",
+    "FOR": "300",
+    "AGAINST": "280",
+    "PTS": "30",
+    "RECENT FORM": ["L", "W", "W", "L", "W"]
+  },
+  {
+    "Position": "2",
+    "Team": "DC",
+    "Point": "20",
+    "W": "8",
+    "L": "4",
+    "NR": "2",
+    "NRR": "+0.28",
+    "FOR": "270",
+    "AGAINST": "260",
+    "PTS": "26",
+    "RECENT FORM": ["W", "L", "L", "L", "L"]
+  },
+  {
+    "Position": "3",
+    "Team": "SHR",
+    "Point": "18",
+    "W": "7",
+    "L": "5",
+    "NR": "3",
+    "NRR": "+0.15",
+    "FOR": "260",
+    "AGAINST": "250",
+    "PTS": "22",
+    "RECENT FORM": ["W", "W", "W", "L", "W"]
+  },
+  {
+    "Position": "4",
+    "Team": "RCB",
+    "Point": "18",
+    "W": "7",
+    "L": "5",
+    "NR": "3",
+    "NRR": "+0.15",
+    "FOR": "260",
+    "AGAINST": "250",
+    "PTS": "22",
+    "RECENT FORM": ["L", "W", "L", "L", "W"]
+  },
+  {
+    "Position": "5",
+    "Team": "KKR",
+    "Point": "18",
+    "W": "7",
+    "L": "5",
+    "NR": "3",
+    "NRR": "+0.15",
+    "FOR": "260",
+    "AGAINST": "250",
+    "PTS": "22",
+    "RECENT FORM": ["W", "W", "W", "L", "W"]
+  },
+  {
+    "Position": "6",
+    "Team": "PBKS",
+    "Point": "18",
+    "W": "7",
+    "L": "5",
+    "NR": "3",
+    "NRR": "+0.15",
+    "FOR": "260",
+    "AGAINST": "250",
+    "PTS": "22",
+    "RECENT FORM": ["L", "W", "W", "L", "W"]
+  },
+  {
+    "Position": "7",
+    "Team": "CSK",
+    "Point": "18",
+    "W": "7",
+    "L": "5",
+    "NR": "3",
+    "NRR": "+0.15",
+    "FOR": "260",
+    "AGAINST": "250",
+    "PTS": "22",
+    "RECENT FORM": ["L", "W", "W", "L", "W"]
+  },
+  {
+    "Position": "8",
+    "Team": "RR",
+    "Point": "18",
+    "W": "7",
+    "L": "5",
+    "NR": "3",
+    "NRR": "+0.15",
+    "FOR": "260",
+    "AGAINST": "250",
+    "PTS": "22",
+    "RECENT FORM": ["L", "W", "W", "W", "W"]
+  }
+]

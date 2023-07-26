@@ -1,0 +1,96 @@
+
+
+
+table {
+  border-collapse: collapse;
+  width: 70%;
+
+  margin: 0 auto;
+
+  border: 1px solid black;
+}
+
+th,
+td {
+  border: 1px black;
+
+  padding: 4px;
+  text-align: center;
+}
+
+th {
+  background-color: #0e00cea2;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #97cfc8;
+}
+
+tr:hover {
+  background-color: #ddd;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 50px;
+  font-weight: bold;
+  background-image: url("");
+}
+
+.team-logo {
+  height: 7%;
+  width: 7%;
+}
+
+.team-name {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.nav {
+  background-color: rgb(4, 23, 131);
+  gap: 90px;
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+
+  gap: 40px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+.logo {
+  width: 95px;
+  height: 60px;
+}
+
+.re-fo {
+  column-width: 140px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+
+  gap: 30px;
+  background-color: black;
+  padding: 10px;
+  margin-top: 30px;
+}
+
+p {
+  color: white;
+}
+
+.footer-element {
+  display: flex;
+  justify-content: center;
+}
